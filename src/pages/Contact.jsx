@@ -3,7 +3,7 @@ import { ArrowRight, Mail, MapPin, Phone, Send, Sparkles } from 'lucide-react'
 import SEO from '../components/SEO'
 import { company } from '../data/siteData'
 
-const WEB3FORMS_ACCESS_KEY = 'YOUR_WEB3FORMS_ACCESS_KEY_HERE'
+const WEB3FORMS_ACCESS_KEY = '6cf55ecd-a4f0-4524-900c-b7b1657624e6'
 
 const services = [
   'Web Development',
