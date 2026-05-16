@@ -35,7 +35,7 @@ Experiences
 </h1>
 
           <p className="mt-7 max-w-2xl text-base leading-8 text-slate-200 sm:text-lg">
-            VortaxStudio builds scalable websites, apps, SaaS platforms,
+            We build scalable websites, apps, SaaS platforms,
             e-commerce systems, business applications, automation workflows,
             QA processes, DevOps pipelines, cybersecurity and digital growth
             solutions.

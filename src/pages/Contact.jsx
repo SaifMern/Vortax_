@@ -3,7 +3,7 @@ import { ArrowRight, Mail, MapPin, Phone, Send, Sparkles } from 'lucide-react'
 import SEO from '../components/SEO'
 import { company } from '../data/siteData'
 
-const CONTACT_API_URL = 'http://localhost/aaa/sendmail.php'
+const CONTACT_API_URL = 'https://vortaxstudio.42web.io/aaa/sendmail.php'
 
 const services = [
   'Web Development',
